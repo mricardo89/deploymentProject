@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/mricardo89/deploymentProject/issues"
   },
-  "homepage": "https://github.com/mricardo89/deploymentProject#readme"
+  "homepage": "https://github.com/mricardo89/deploymentProject#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  },
+  "devDependencies": {}
 }
